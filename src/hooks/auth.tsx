@@ -1,5 +1,5 @@
 import React, { createContext, useCallback, useState, useContext } from 'react';
-import { userInfo } from 'os';
+// import { userInfo } from 'os';
 import api from '../services/api';
 
 interface AuthState {
